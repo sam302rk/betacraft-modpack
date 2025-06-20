@@ -426,11 +426,6 @@ hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
 
 [[files]]
-file = "mods/minopp.pw.toml"
-hash = "e70ec990ef02e19c4aae1d44cce3031fd60cdb149e00164e8f3631b8567b4a97"
-metafile = true
-
-[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "e78faacb02c5ad86a31ff1178d48c5b231433bb1128584c987ef60224057fb75"
 metafile = true
