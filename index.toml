@@ -466,11 +466,6 @@ hash = "1ab7904c5dafdcc696cc7d88720f1d92f8994cda0d7f21d40a636e8e423e7144"
 metafile = true
 
 [[files]]
-file = "mods/nvidium.pw.toml"
-hash = "07dd8775324c01058896b4572e23a1ca1c355186cc501c61fc68e1151c5e177c"
-metafile = true
-
-[[files]]
 file = "mods/paladins-and-priests.pw.toml"
 hash = "e1647886ccde50488b67936cbc819b36c408a70fe8cf664b8525d0458b1b4cba"
 metafile = true
@@ -491,6 +486,11 @@ hash = "e5c586841087eda7b2ebeb47a608fd540cd984c635f5d0c483cf62255c3d32f1"
 metafile = true
 
 [[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "a3d67082a95f70155d68aec25d7ffba8a7c7bc48b342529e52005ddfc76f11ae"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "daddb2872c14e126b612f98ddcf7727a454400046a6ff31b8a440aedcbc88581"
 metafile = true
@@ -503,11 +503,6 @@ metafile = true
 [[files]]
 file = "mods/ranged-weapon-api.pw.toml"
 hash = "5fa66e199279801ccb4c938248f7c61c0d871f08be7b1fe676419df801916560"
-metafile = true
-
-[[files]]
-file = "mods/rechiseled-create.pw.toml"
-hash = "41f18dab192c79a4f4ec38422b38c3d6198ebae71abab86cfbf305a1d008c051"
 metafile = true
 
 [[files]]
