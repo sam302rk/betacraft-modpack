@@ -546,6 +546,11 @@ hash = "e1647886ccde50488b67936cbc819b36c408a70fe8cf664b8525d0458b1b4cba"
 metafile = true
 
 [[files]]
+file = "mods/panorama-screenshot.pw.toml"
+hash = "c57f1d6385cfdef46b1f7a542c767f0eae67d69139d37541022dd32867c864b9"
+metafile = true
+
+[[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "4627a69a0bee4fd64a214c5814cc5f511934ffb206f79751a0f56b86a9f782f4"
 metafile = true
