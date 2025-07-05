@@ -41,6 +41,11 @@ hash = "ce9ffbe43febde9316a5264f9bc8250fe77de948485949251067d12ad6fe4b9a"
 metafile = true
 
 [[files]]
+file = "mods/athena-mod.pw.toml"
+hash = "e09ceae04e73831b93c43e6a1f12da063fc24e1074f39fab1e00234a8de8a1e2"
+metafile = true
+
+[[files]]
 file = "mods/axiom.pw.toml"
 hash = "e293aa88b50816a60219dcfa462766bae19399200bb3568b33de40754eea52fd"
 metafile = true
