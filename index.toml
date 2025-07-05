@@ -326,8 +326,18 @@ hash = "8d27c5bfadd53089243e654bd605faac4b768dba2647254e06e4d04e9be28236"
 metafile = true
 
 [[files]]
+file = "mods/fabric-seasons-delight-compat.pw.toml"
+hash = "47658692cb711fabfd8979f13d3be74ef39056cf3e9a5407d05bc0d4e51075d9"
+metafile = true
+
+[[files]]
 file = "mods/fabric-seasons-extras.pw.toml"
 hash = "2a323b56ae9593d1e0c332226db2a334efa6d2550faeebdd0442d420fcd081d5"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons-terralith-compat.pw.toml"
+hash = "7c8572547d6e71b653018c3350daec54010442cba9f9517a4252bf3b8d3ecd3d"
 metafile = true
 
 [[files]]
