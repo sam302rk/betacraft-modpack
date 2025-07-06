@@ -401,6 +401,11 @@ hash = "2dded9237b5fbf729ca1947780e8de50bfaaad8b95371370e5263620122bad20"
 metafile = true
 
 [[files]]
+file = "mods/hearth-and-home.pw.toml"
+hash = "0ed872563946a194f1c1c64c19f13820c9670ae1874e72809892c664a93075f5"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "e6a7ce422d4389313e10dcbf6f1fa7e306a5d48fd48dae9781e88db39836f88b"
 metafile = true
