@@ -541,6 +541,11 @@ hash = "1ab7904c5dafdcc696cc7d88720f1d92f8994cda0d7f21d40a636e8e423e7144"
 metafile = true
 
 [[files]]
+file = "mods/overflowing-bars.pw.toml"
+hash = "16c2e80412b85d3e889ee5d8d98424bc5be95dfe4224011b9754d8778599b371"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
 metafile = true
