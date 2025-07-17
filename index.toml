@@ -641,11 +641,6 @@ hash = "4035c4dac9d38314c53ed5009f340a4c3fd2abe5fcf93c8ce9e4ef6e022856dc"
 metafile = true
 
 [[files]]
-file = "mods/shimmer!.pw.toml"
-hash = "0a16a952cfa2de529749da0e1ab02feffee4acd866f8147ee7a65da1ca8d2a6c"
-metafile = true
-
-[[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "de37a29e69473c7532f8f17a44add66ab5d38c971b04a07a235543a159741040"
 metafile = true
