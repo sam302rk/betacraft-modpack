@@ -576,6 +576,11 @@ hash = "4627a69a0bee4fd64a214c5814cc5f511934ffb206f79751a0f56b86a9f782f4"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "2e8e746d6f81c3dbb935bb2f3074d129574dd03d19d201975c5049fd70a54dc2"
+metafile = true
+
+[[files]]
 file = "mods/philips-ruins.pw.toml"
 hash = "dbab8a0167e50d5f445ff6af25c89e9aa4ae2f1a1f00a2a7661eb7fe5991b5ab"
 metafile = true
@@ -633,6 +638,11 @@ metafile = true
 [[files]]
 file = "mods/shield-api.pw.toml"
 hash = "4035c4dac9d38314c53ed5009f340a4c3fd2abe5fcf93c8ce9e4ef6e022856dc"
+metafile = true
+
+[[files]]
+file = "mods/shimmer!.pw.toml"
+hash = "0a16a952cfa2de529749da0e1ab02feffee4acd866f8147ee7a65da1ca8d2a6c"
 metafile = true
 
 [[files]]
