@@ -191,6 +191,11 @@ hash = "338196f41190bb2c0b34d4a8aa10e0f41bdf339bd436ce3f738762d3e56883b8"
 metafile = true
 
 [[files]]
+file = "mods/create-broken-bad-fabric.pw.toml"
+hash = "2f3998929eb4efa7678fb9ba0fd0fd02e5046f9bab1c825e4a40351ba3514700"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "0372b9ea1233cf516f205bed50c4014bfb4e806406657b8f803409a71d81d88a"
 metafile = true
@@ -216,6 +221,11 @@ hash = "5911833b82779d51241aadc3218ff63a1ab382b068f28ecfb3b6fc136f98160b"
 metafile = true
 
 [[files]]
+file = "mods/create-molten-metals.pw.toml"
+hash = "a211e4e8e8955f09568c0c18c2966198b8ee5acd2e4fbe04e90668b282423ba7"
+metafile = true
+
+[[files]]
 file = "mods/create-new-age.pw.toml"
 hash = "246738f5a6bb9726299202fbe7a639ca214cf704e3ea6ca20414b9600c0a7412"
 metafile = true
@@ -233,6 +243,11 @@ metafile = true
 [[files]]
 file = "mods/create-structures.pw.toml"
 hash = "f0323722f66e5b288875294fb083404998a5891751e9460c1f4a4f44626bcc2c"
+metafile = true
+
+[[files]]
+file = "mods/createnuclear.pw.toml"
+hash = "6bdc02cb6af060e78b1a43853f6fc4d0dcb3661592354b53ca7d2369f6c5186b"
 metafile = true
 
 [[files]]
