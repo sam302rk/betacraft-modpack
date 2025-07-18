@@ -1,6 +1,6 @@
 name = "Create: Broken Bad ReBroken"
 filename = "createbb1.20.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/uIfluo9C/versions/5Ibh9a9W/createbb1.20.1.jar"
