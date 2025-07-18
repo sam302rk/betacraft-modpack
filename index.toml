@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "0612d9592725f4812b8540fe6470d419c6055f8f74f37eb23f2380fb6093cefc"
+hash = "fc91531cb60be93f9adc84d60e6034b25fea8d6c2b5c9bcd0bac6c3095bff1d2"
 metafile = true
 
 [[files]]
