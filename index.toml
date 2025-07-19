@@ -21,6 +21,11 @@ hash = "edaf94417c62154a22e485b669f0e289488558c453ad57b820978d4072c9cfbe"
 metafile = true
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "5e190af36866474271ab222911f9e4cc0ede0db4ab1b333cbb91ce360bb794d1"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "3e6a050d5cf16d07d8a8d8bb2e849c65de05ef6ea6a9fdc67698c59594840d74"
 metafile = true
@@ -58,6 +63,11 @@ metafile = true
 [[files]]
 file = "mods/athena-mod.pw.toml"
 hash = "e09ceae04e73831b93c43e6a1f12da063fc24e1074f39fab1e00234a8de8a1e2"
+metafile = true
+
+[[files]]
+file = "mods/automobility.pw.toml"
+hash = "c3b5b2edf2b45384bd560bd7fe72c3f99515a95d023a69750c43ef691e59f546"
 metafile = true
 
 [[files]]
@@ -253,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/createnuclear.pw.toml"
 hash = "6bdc02cb6af060e78b1a43853f6fc4d0dcb3661592354b53ca7d2369f6c5186b"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "3f73a9c093a27db253436b4964571a644bba89c5186daeac8e29ff7e1982a3b9"
 metafile = true
 
 [[files]]
@@ -463,6 +478,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "0c76ff10971db8501866e5d2f855e6a466838e5b123fbd72bbf35ed3dd4a32ad"
+metafile = true
+
+[[files]]
+file = "mods/isometric-renders.pw.toml"
+hash = "75ae35db534fd000d29631884ea2a10f81dd49fb3cb3ea426cb6901ca2a30bdf"
 metafile = true
 
 [[files]]
