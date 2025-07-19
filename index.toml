@@ -96,6 +96,10 @@ hash = "e0939ffb6b7b49dde8f936cd83f6f4881238f71bbdf14afe3b22b364b7e8cfbe"
 metafile = true
 
 [[files]]
+file = "mods/betacraft-1.0-SNAPSHOT.jar"
+hash = "b61514456a3b246c696dfdbe1c6ace920390b6327dbeef42f18a476c58549327"
+
+[[files]]
 file = "mods/better-archeology.pw.toml"
 hash = "a95312f747d56e561bb2332f0c03f08842cde88d7d832d05b8b61ca50cc40b64"
 metafile = true
