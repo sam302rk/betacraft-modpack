@@ -126,6 +126,11 @@ hash = "bc89870afdbd128e0299919856c7d4a6ce5f5abb4dc43870e29388078cb4711e"
 metafile = true
 
 [[files]]
+file = "mods/capes.pw.toml"
+hash = "4c712d7ad6d2ddb130b845c3b2c660be7cb7795db21be00b130443730719305e"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "fd522c425b7dd722dcd7a1d5785829ff9f12c67a1907b51d8731bd0ac5984a3a"
 metafile = true
