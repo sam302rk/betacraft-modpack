@@ -540,6 +540,11 @@ hash = "e5deb9d89c0a8c0060d2a5eb99d5ad0898262a080922aa7f44983a829949e0b2"
 metafile = true
 
 [[files]]
+file = "mods/measurements.pw.toml"
+hash = "c9b3adb307d642a8f8815372da41715c4d9021ff783461276b9820d512bed8d6"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
