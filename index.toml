@@ -830,11 +830,6 @@ hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
 metafile = true
 
 [[files]]
-file = "mods/worldeditcui-fabric.pw.toml"
-hash = "4decc70f9d9a8d14dafb03e0e0d0292a3b751572880a5a694a4bc0a46fe698bc"
-metafile = true
-
-[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "c14a2c8d1d1ee116fac633256631c2b8c0febe0238108fb35b19021d6edc4df3"
 metafile = true
