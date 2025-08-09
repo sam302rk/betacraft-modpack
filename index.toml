@@ -6,6 +6,10 @@ hash = "260d0225c643e65734e8803a9e68e247b2fc08b2c33c24e2470020b9f6ea52ab"
 metafile = true
 
 [[files]]
+file = "mods/PatPat-1.2.1+1.20.1.jar"
+hash = "6e47c1a84fe092a33e5a67e2ec4856487fcba897f541050a8f70268eb947c0c0"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "0b9799f4f5e13214246e24fc7598738a3fea05d6278d64a4e36f03460c382d67"
 metafile = true
