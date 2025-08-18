@@ -674,6 +674,11 @@ hash = "d57003b9b0f720ea31a1ee4faf958f0448f7bc25f0f3cd410a6efd0d81a47e0a"
 metafile = true
 
 [[files]]
+file = "mods/replaymod.pw.toml"
+hash = "e2bb6ff392a33378fcc69c091a9cf678dda0693fbd9373c94302b09ce03b3473"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "f0e88961cede6cba727ab6afbe46e95194242fd84976c6167e75c4d6a6118abf"
 metafile = true
