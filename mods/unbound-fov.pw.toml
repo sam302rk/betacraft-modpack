@@ -1,0 +1,13 @@
+name = "Unbound Fov"
+filename = "Unbound-Fov-1.0.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/wlLhCabV/versions/tVpNlVU9/Unbound-Fov-1.0.3.jar"
+hash-format = "sha1"
+hash = "e6ad2a9388a1fb73bf83fb8ed99c528db6ca31f7"
+
+[update]
+[update.modrinth]
+mod-id = "wlLhCabV"
+version = "tVpNlVU9"

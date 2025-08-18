@@ -56,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
+hash = "d781f0383e4bf46d5f659cb5d2a7f840dbf6606e2d494a48c9771580fb7ad96f"
 metafile = true
 
 [[files]]
@@ -141,6 +141,11 @@ metafile = true
 [[files]]
 file = "mods/bountiful.pw.toml"
 hash = "bc89870afdbd128e0299919856c7d4a6ce5f5abb4dc43870e29388078cb4711e"
+metafile = true
+
+[[files]]
+file = "mods/camera-utils.pw.toml"
+hash = "9a253e0d2277ad6033542839a707dd4bcec441dca2f758680592ce1e353e93fa"
 metafile = true
 
 [[files]]
@@ -360,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "30f42d9c40bc729d19feaa0f46f41447e8199c9f9a8dc0ea1e19c376a2e83a6d"
+hash = "57676d175e79620de4399970c1a0bfcf3c1c7479f9d0d5c9a2ef496c230ff5d6"
 metafile = true
 
 [[files]]
@@ -446,6 +451,11 @@ metafile = true
 [[files]]
 file = "mods/hearth-and-home.pw.toml"
 hash = "0ed872563946a194f1c1c64c19f13820c9670ae1874e72809892c664a93075f5"
+metafile = true
+
+[[files]]
+file = "mods/identity.pw.toml"
+hash = "89a2dd47f2d4d5da0964bb7e36f733e152ae277e500acc033d66e7fcc0aaaaeb"
 metafile = true
 
 [[files]]
@@ -606,6 +616,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "1ab7904c5dafdcc696cc7d88720f1d92f8994cda0d7f21d40a636e8e423e7144"
+metafile = true
+
+[[files]]
+file = "mods/orthocamera.pw.toml"
+hash = "eb7cadb5cb1c31418b24f9f1dce4cc8bf583d966d3c73e5452423e98495b5dd7"
 metafile = true
 
 [[files]]
@@ -796,6 +811,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
+metafile = true
+
+[[files]]
+file = "mods/unbound-fov.pw.toml"
+hash = "5b061156c2dc45f70b8d1b62617b217aa5cc4b6ac3edef9a343222c5d47976a9"
 metafile = true
 
 [[files]]
