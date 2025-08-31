@@ -824,6 +824,11 @@ hash = "5b061156c2dc45f70b8d1b62617b217aa5cc4b6ac3edef9a343222c5d47976a9"
 metafile = true
 
 [[files]]
+file = "mods/unlimitedperipheralworks.pw.toml"
+hash = "a526cad8167c207dfb07be22d7d99c929af0c73c48edce19af84e957f5eadf33"
+metafile = true
+
+[[files]]
 file = "mods/valkyrien-skies.pw.toml"
 hash = "256f34b9ea560f9fda8e71a2afb0fadfdb2f84f51270e9289786a573732b6a2b"
 metafile = true
