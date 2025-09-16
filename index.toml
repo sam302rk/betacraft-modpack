@@ -480,11 +480,6 @@ hash = "0ed872563946a194f1c1c64c19f13820c9670ae1874e72809892c664a93075f5"
 metafile = true
 
 [[files]]
-file = "mods/identity-fix.pw.toml"
-hash = "27f19caf36efa43b14149b46a61701e030a3d50a04a57d4ee5c29a7f7c5628ac"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "e1ca7ea5d651bae889113b38419cc179d1ba5fd5b0d7a265787c9f5d06429783"
 metafile = true
