@@ -855,6 +855,11 @@ hash = "1d0b62685fd74fdd9d8cba3b3f3a85da75423550704646251a39542fce96bcb4"
 metafile = true
 
 [[files]]
+file = "mods/voicechat-soundboard.pw.toml"
+hash = "72b8f0c82de16b8e98bf8b41d141761f913aadd3aefa5619c4b35f82b5d35130"
+metafile = true
+
+[[files]]
 file = "mods/wakes.pw.toml"
 hash = "874991796dfc7d7a476881ba386df14649db71be0c3647b0cf56e5d4ba801cef"
 metafile = true
