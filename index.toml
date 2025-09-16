@@ -468,8 +468,8 @@ hash = "0ed872563946a194f1c1c64c19f13820c9670ae1874e72809892c664a93075f5"
 metafile = true
 
 [[files]]
-file = "mods/identity.pw.toml"
-hash = "89a2dd47f2d4d5da0964bb7e36f733e152ae277e500acc033d66e7fcc0aaaaeb"
+file = "mods/identity-fix.pw.toml"
+hash = "27f19caf36efa43b14149b46a61701e030a3d50a04a57d4ee5c29a7f7c5628ac"
 metafile = true
 
 [[files]]
