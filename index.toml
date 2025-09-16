@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/customsplashscreen.json"
+hash = "e12e5b7bf626de7897437bf5f3b92e372a2b05477d956548ce006d44d699f444"
+
+[[files]]
+file = "config/customsplashscreen/background.png"
+hash = "3afedec451cb2eb1851f8c4916e368024ef2b378eb6a4fbb23220595d48ac88a"
+
+[[files]]
+file = "config/customsplashscreen/wide_logo.png"
+hash = "fb2e853a53201f4569a1097799cfa08236d0d048000d60e8224c94de1199912c"
+
+[[files]]
 file = "config/customwindowtitle-client.toml"
 hash = "c717ad3f337b74eb4ff0636c3aacc13b1ad95ce3f2874b2fae83f20930115481"
 
