@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/customwindowtitle-client.toml"
+hash = "c717ad3f337b74eb4ff0636c3aacc13b1ad95ce3f2874b2fae83f20930115481"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "2f0274f12886e3a667a16a1188156a418b61925a4f19a09414bd2591940b4d46"
 metafile = true
@@ -286,6 +290,16 @@ metafile = true
 [[files]]
 file = "mods/creeper-overhaul.pw.toml"
 hash = "44c45b4769e2a419cb455b02fdb29fb763c09ec4cde3e4142fc0ab460c39fd35"
+metafile = true
+
+[[files]]
+file = "mods/custom-splash-screen.pw.toml"
+hash = "f198f659f5f32d20d5a503c3599a217e6c2d3c44a139d62f5d899201fefae708"
+metafile = true
+
+[[files]]
+file = "mods/custom-window-title.pw.toml"
+hash = "23741a1d4ab09af28cc04a035f30d0e9b0f26577697e0faaf797f2eed2833451"
 metafile = true
 
 [[files]]

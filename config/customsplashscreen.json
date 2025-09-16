@@ -1,0 +1,18 @@
+{
+  "progressBarType": "BossBar",
+  "logoStyle": "Mojang",
+  "backgroundImage": true,
+  "logoBlend": true,
+  "splashBackgroundColor": "#FFFFFF",
+  "splashProgressBarColor": "#FFFFFF",
+  "splashProgressFrameColor": "#FFFFFF",
+  "splashProgressBackgroundColor": "#000000",
+  "progressBarBackground": false,
+  "customProgressBarMode": "Linear",
+  "bossBarColor": "WHITE",
+  "bossBarType": "PROGRESS",
+  "bossBarSize": 60,
+  "spinningCircleSize": 2,
+  "spinningCircleSpeed": 4,
+  "spinningCircleTrail": 5
+}
