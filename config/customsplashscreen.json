@@ -11,7 +11,7 @@
   "customProgressBarMode": "Linear",
   "bossBarColor": "WHITE",
   "bossBarType": "PROGRESS",
-  "bossBarSize": 60,
+  "bossBarSize": 85,
   "spinningCircleSize": 2,
   "spinningCircleSpeed": 4,
   "spinningCircleTrail": 5

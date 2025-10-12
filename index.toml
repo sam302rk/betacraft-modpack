@@ -26,6 +26,10 @@ file = "mods/PatPat-1.2.1+1.20.1.jar"
 hash = "6e47c1a84fe092a33e5a67e2ec4856487fcba897f541050a8f70268eb947c0c0"
 
 [[files]]
+file = "mods/SignalCraft-1.0.0.jar"
+hash = "31f93edc80fdd3ece12a2c31930b22196cd4fc728aaea5a365a539a9f14fe5fc"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "0b9799f4f5e13214246e24fc7598738a3fea05d6278d64a4e36f03460c382d67"
 metafile = true
