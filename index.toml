@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/customsplashscreen.json"
-hash = "e12e5b7bf626de7897437bf5f3b92e372a2b05477d956548ce006d44d699f444"
+hash = "5cde2cfeeaf2989d4a5d28833f27a5966fef0c498f4f81c1b733d3ba1c864283"
 
 [[files]]
 file = "config/customsplashscreen/background.png"
-hash = "3afedec451cb2eb1851f8c4916e368024ef2b378eb6a4fbb23220595d48ac88a"
+hash = "5387f5d07fc5bd1a712a7aec7a5ac191cb42224c53acfb13f5ba9d0852550161"
 
 [[files]]
 file = "config/customsplashscreen/wide_logo.png"
