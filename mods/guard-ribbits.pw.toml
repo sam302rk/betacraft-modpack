@@ -1,0 +1,13 @@
+name = "Guard Ribbits"
+filename = "GuardRibbits-1.20.1-Fabric-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/t7UhdlGh/versions/KZXDQqCj/GuardRibbits-1.20.1-Fabric-1.0.4.jar"
+hash-format = "sha1"
+hash = "f3a720edd100e981e1c608da13d2550ec99a8f8c"
+
+[update]
+[update.modrinth]
+mod-id = "t7UhdlGh"
+version = "KZXDQqCj"

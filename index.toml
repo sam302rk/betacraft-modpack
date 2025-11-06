@@ -474,6 +474,11 @@ hash = "1b08a674f7d2e5b1f94fbd14126fa89578e3684784cec245c741737661ee902e"
 metafile = true
 
 [[files]]
+file = "mods/guard-ribbits.pw.toml"
+hash = "5a3a03fa80a142117729bf461bc7f2a10efe47d5f191c2fe17c18cf1822ede68"
+metafile = true
+
+[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "2dded9237b5fbf729ca1947780e8de50bfaaad8b95371370e5263620122bad20"
 metafile = true
@@ -726,6 +731,16 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "04309568425eb622ffab10178d2fae3543788be54aa427ab640aea0c0dd5a4b9"
+metafile = true
+
+[[files]]
+file = "mods/resourcepackcached.pw.toml"
+hash = "f67dac1293f906b4f670fd7171bfcba31453cb8956fbbd3a707bb82395f1f9e5"
+metafile = true
+
+[[files]]
+file = "mods/ribbits.pw.toml"
+hash = "d42fb790b6faf6f05f8f48319dd3db79e795c77a6568adfbf38ccf289736ad35"
 metafile = true
 
 [[files]]
