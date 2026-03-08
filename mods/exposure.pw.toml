@@ -1,13 +1,13 @@
 name = "Exposure"
-filename = "exposure-1.20.1-1.7.16-fabric.jar"
+filename = "exposure-fabric-1.21.1-1.9.14.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/hB899VmG/versions/fiezBPPG/exposure-1.20.1-1.7.16-fabric.jar"
+url = "https://cdn.modrinth.com/data/hB899VmG/versions/grvKwso1/exposure-fabric-1.21.1-1.9.14.jar"
 hash-format = "sha1"
-hash = "d55b8d666598410db4bee4e51aeb445726574ce5"
+hash = "63ee31e37a0e0417776828dca454beba919b97af"
 
 [update]
 [update.modrinth]
 mod-id = "hB899VmG"
-version = "fiezBPPG"
+version = "grvKwso1"

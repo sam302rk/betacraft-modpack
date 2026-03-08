@@ -1,13 +1,13 @@
 name = "Just Enough Breeding (JEBr)"
-filename = "justenoughbreeding-fabric-1.20-1.20.1-2.1.0.jar"
+filename = "justenoughbreeding-fabric-1.21-1.21.1-1.6.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/9Pk89J3g/versions/LrZWoq4D/justenoughbreeding-fabric-1.20-1.20.1-2.1.0.jar"
+url = "https://cdn.modrinth.com/data/9Pk89J3g/versions/p6ht5K4j/justenoughbreeding-fabric-1.21-1.21.1-1.6.2.jar"
 hash-format = "sha1"
-hash = "b290da8f7efcbae4486d165f33bd9e047233a23d"
+hash = "fc416978736aa76e11485c7293bc93badaf9671f"
 
 [update]
 [update.modrinth]
 mod-id = "9Pk89J3g"
-version = "LrZWoq4D"
+version = "p6ht5K4j"

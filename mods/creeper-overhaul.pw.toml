@@ -1,13 +1,13 @@
 name = "Creeper Overhaul"
-filename = "creeperoverhaul-3.0.2-fabric.jar"
+filename = "CreeperOverhaul-fabric-1.21.1-4.0.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/MI1LWe93/versions/Mw0Hq1SZ/creeperoverhaul-3.0.2-fabric.jar"
+url = "https://cdn.modrinth.com/data/MI1LWe93/versions/O6yuPiE8/CreeperOverhaul-fabric-1.21.1-4.0.6.jar"
 hash-format = "sha1"
-hash = "28f45ffa819e310e0df0e652b7a971db993fa008"
+hash = "1e12b0d7c310ad60bd648dd97cbc459ab57eaa38"
 
 [update]
 [update.modrinth]
 mod-id = "MI1LWe93"
-version = "Mw0Hq1SZ"
+version = "O6yuPiE8"

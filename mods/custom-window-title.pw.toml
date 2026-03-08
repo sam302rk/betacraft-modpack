@@ -1,13 +1,13 @@
 name = "Custom Window Title"
-filename = "CustomWindowTitle-Fabric-1.20+v1.2.0.jar"
+filename = "CustomWindowTitle-1.21.4+v1.4.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/RGH5gtzF/versions/ueiehBDu/CustomWindowTitle-Fabric-1.20%2Bv1.2.0.jar"
+url = "https://cdn.modrinth.com/data/RGH5gtzF/versions/Pqn8PDBd/CustomWindowTitle-1.21.4%2Bv1.4.1.jar"
 hash-format = "sha1"
-hash = "180625c304e4d660a08c4c97e5ca24b50622f282"
+hash = "db89df2f80e8842b4ad0ed634d59f35b53f5061b"
 
 [update]
 [update.modrinth]
 mod-id = "RGH5gtzF"
-version = "ueiehBDu"
+version = "Pqn8PDBd"

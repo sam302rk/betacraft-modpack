@@ -1,13 +1,13 @@
 name = "Automobility"
-filename = "automobility-0.4.2+1.20.1-fabric.jar"
+filename = "automobility-0.5.0.h+1.21.1-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/rqIsPf9F/versions/G97BY8OB/automobility-0.4.2%2B1.20.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/rqIsPf9F/versions/vvzu2A6h/automobility-0.5.0.h%2B1.21.1-fabric.jar"
 hash-format = "sha1"
-hash = "c820b82890d0192ccf1e8bc05d1ff081bc5954b7"
+hash = "e75acfb15ed700ebed1798b5db3fff157ad750bb"
 
 [update]
 [update.modrinth]
 mod-id = "rqIsPf9F"
-version = "G97BY8OB"
+version = "vvzu2A6h"

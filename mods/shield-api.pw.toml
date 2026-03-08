@@ -1,13 +1,13 @@
 name = "Shield API"
-filename = "ShieldAPI-1.0.1+1.20.1.jar"
+filename = "shield_api-fabric-2.2.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/y9clIFY4/versions/sLbfVkc1/ShieldAPI-1.0.1%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/y9clIFY4/versions/rdcTHSZH/shield_api-fabric-2.2.0.jar"
 hash-format = "sha1"
-hash = "3eff6896e92094df2fefc8175f8416d0532eec53"
+hash = "27b5d2bfbc424b201bae0ecd61266382fe219f98"
 
 [update]
 [update.modrinth]
 mod-id = "y9clIFY4"
-version = "sLbfVkc1"
+version = "rdcTHSZH"

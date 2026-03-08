@@ -1,13 +1,13 @@
 name = "Even More Instruments!"
-filename = "evenmoreinstruments-fabric-1.20-1.20.1-6.1.4.jar"
+filename = "evenmoreinstruments-fabric-1.21-1.21.1-6.1.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Mcs3cqJ1/versions/X2qbymcw/evenmoreinstruments-fabric-1.20-1.20.1-6.1.4.jar"
+url = "https://cdn.modrinth.com/data/Mcs3cqJ1/versions/3S7eiogA/evenmoreinstruments-fabric-1.21-1.21.1-6.1.4.jar"
 hash-format = "sha1"
-hash = "c4c6b3ae461832dda1976b9c510ba6b28ffab75e"
+hash = "5ecb2d85c066840be2533bcf08454f501545708e"
 
 [update]
 [update.modrinth]
 mod-id = "Mcs3cqJ1"
-version = "X2qbymcw"
+version = "3S7eiogA"
